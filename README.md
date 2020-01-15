@@ -172,6 +172,7 @@ allprojects {
   * [complete](https://github.com/the-pig-of-jungle/smart-show/wiki/EmotionToast#complete)
   * [forbid](https://github.com/the-pig-of-jungle/smart-show/wiki/EmotionToast#forbid)
   * [waiting](https://github.com/the-pig-of-jungle/smart-show/wiki/EmotionToast#waiting)
+* [自定义Toast](https://github.com/the-pig-of-jungle/smart-show/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89Toast)
 #### 普通 Toast
 默认样式：![图片加载失败](images/toast_normal.gif)设置背景色：![图片加载失败](images/toast_color.gif)
 
