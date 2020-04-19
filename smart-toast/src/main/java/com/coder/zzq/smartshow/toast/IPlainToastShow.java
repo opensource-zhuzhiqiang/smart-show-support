@@ -1,8 +1,9 @@
 package com.coder.zzq.smartshow.toast;
 
+
 import android.support.annotation.StringRes;
 
-public interface ITextShow {
+public interface IPlainToastShow {
 
     // short text toast
 
@@ -46,7 +47,5 @@ public interface ITextShow {
     void showLongAtLocation(CharSequence msg, int gravity, float xOffsetDp, float yOffsetDp);
 
     void showLongAtLocation(@StringRes int msg, int gravity, float xOffsetDp, float yOffsetDp);
-
-    ITextShow leave();
 
 }
